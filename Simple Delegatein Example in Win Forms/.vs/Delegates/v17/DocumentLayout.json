@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|c:\\users\\alnoo\\onedrive\\documents\\desktop\\course20\\delegates\\delegates\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|solutionrelative:delegates\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|c:\\users\\alnoo\\onedrive\\documents\\desktop\\course20\\delegates\\delegates\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|solutionrelative:delegates\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|c:\\users\\alnoo\\onedrive\\documents\\desktop\\course20\\delegates\\delegates\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|solutionrelative:delegates\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\delegates\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B03219F-3371-4321-B9AC-0A9FD7CC0D81}|Delegates\\Delegates.csproj|solutionrelative:delegates\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Delegates\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\UserControl1.cs",
+              "RelativeToolTip": "Delegates\\UserControl1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T19:33:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\Form2.cs",
+              "RelativeDocumentMoniker": "Delegates\\Form2.cs",
+              "ToolTip": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\Form2.cs",
+              "RelativeToolTip": "Delegates\\Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T19:26:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\Form1.cs",
+              "RelativeDocumentMoniker": "Delegates\\Form1.cs",
+              "ToolTip": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\Form1.cs",
+              "RelativeToolTip": "Delegates\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:06:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\Form1.cs",
+              "RelativeDocumentMoniker": "Delegates\\Form1.cs",
+              "ToolTip": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Course20\\Delegates\\Delegates\\Form1.cs [Design]",
+              "RelativeToolTip": "Delegates\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:04:28.452Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
